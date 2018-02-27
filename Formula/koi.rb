@@ -1,4 +1,4 @@
-class koi < Formula
+class Koi < Formula
   homepage ''
   url 'https://github.com/davidzou/koi/blob/master/tarball/1.0.0/koi-1.0.0.tar?raw=true'
   desc 'A command to create gradle plugin faster'

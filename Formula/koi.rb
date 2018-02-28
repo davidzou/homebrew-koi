@@ -7,6 +7,6 @@ class Koi < Formula
 
   def install
     bin.install "koi"
-    libs.install "libs"
+    include.install "libs"
   end
 end

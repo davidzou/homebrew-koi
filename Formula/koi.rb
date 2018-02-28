@@ -2,7 +2,7 @@ class Koi < Formula
   homepage ''
   url 'https://github.com/davidzou/koi/blob/master/tarball/1.0.0/koi-1.0.0.tar?raw=true'
   desc 'A command to create gradle plugin faster'
-  sha256 'd1f408ebd5c5b0aacb90e230e61d0020aeb9198b9d6082727ff78c4946952be8'
+  sha256 'e64fd0d8440dc7a5dc657c5d8a88049ee82afdb86b32a9dc96b354e8993828a2'
   version '1.0.0'
 
   def install

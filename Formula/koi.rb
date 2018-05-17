@@ -1,9 +1,9 @@
 class Koi < Formula
   homepage ''
-  url 'https://github.com/davidzou/koi/blob/master/tarball/1.0.2/koi-1.0.2.tar?raw=true'
+  url 'https://github.com/davidzou/koi/blob/master/tarball/1.0.3/koi-1.0.3.tar?raw=true'
   desc 'A command to create gradle plugin faster'
-  sha256 'aa43a0110a0941ed34be045e1b585441568b355fa2f9330efcee6c1889479868'
-  version '1.0.2'
+  sha256 '58d137e56071e8600eb00bdad0dc55592020a22edc717536c671a10ad774a715'
+  version '1.0.3'
 
   def install
     bin.install "koi"
